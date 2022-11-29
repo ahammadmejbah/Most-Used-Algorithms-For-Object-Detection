@@ -15,18 +15,16 @@
 
 
 
-
-
-
-
 <p align="center"><h3> Two Stage</h3></p>
 
 <ol>
-<li>RC</li>
+<li>RCNN</li>
 <li>SPPNet </li>
 <li>Fast RCNN</li>
 <li>Faster RCNN </li>
 <li>Mask R-CNN </li>
 <li>Pyramid Networks/FPN </li>
 <li>G-RCNN</li> 
+<li>HOG/li> 
+  
 </ol>
