@@ -25,6 +25,6 @@
 <li>Mask R-CNN </li>
 <li>Pyramid Networks/FPN </li>
 <li>G-RCNN</li> 
-<li>HOG/li> 
+<li>HOG</li> 
   
 </ol>
