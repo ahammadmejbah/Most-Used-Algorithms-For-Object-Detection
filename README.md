@@ -1,4 +1,4 @@
-<p align="center"><h1>Most-Used-Algorithms-For-Object-Detection</h1></p>
+<p align="center">Most Used Algorithms For Object Detection</p>
 
 
 
